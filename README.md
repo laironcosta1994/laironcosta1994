@@ -26,7 +26,7 @@
 <br>
 
 <!--=================================== ABOUT ME ====================================-->
-<h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> Get to Know Me </h1> 
+<h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> Three.js | WebGL | 3D Web | Unity Developer </h1> 
 
 As a visionary Three.js Developer, 3D Web Developer and Fullstack Developer my curious mind leverages tools like ` Blender `, and frameworks like `  Three.js `, `  WebGL `, `  Babylon.js `, `  GLSL(OpenGL Shading Language)  `, ` GSAP Animations `, React.js, Next.js, and Tailwind CSS, empowering me to not just create captivating and interactive web applications but also greatly enhance user engagement, leaving them impressed and eager to explore further. <br/><br/> _By leveraging this powerful tool, I can take functionality to unprecedented levels, ensuring a seamless and enjoyable user experience_.
  <br/><br/>
@@ -112,18 +112,4 @@ _<h4> 🧷 <a href="https://raw.githubusercontent.com/laironcosta1994/resume/mai
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="35"  /> &nbsp; Hobbies & Spare Time : </h3>
 <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/04d2cbeb-8e59-4ffe-8130-c5fb6a22aa8c" alt="GYM" width="45" height="45" /> &nbsp;  
 <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/932d3eb9-506a-4ef8-bd05-22ed822d1d7d" alt="Camping" width="45" height="45" /> &nbsp; <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/4e2e25d7-fe5c-4c89-a0cd-7c666af89932" alt="Reading Books" width="45" /> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Music" width="40" height="40" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/2b633c28-9b84-438f-9b70-5c4c01abff43" alt="Running" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8b202f8d-c36e-466c-ade6-85d42cce6ff7" alt="Swimming" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/d061c844-fd22-4353-81c4-74ce183b11a2" alt="Cycling" width="45" height="45" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/07be43eb-6346-4e81-ae38-80f6ba551e21" alt="Play Games" width="45" height="45" />  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/84956992-e381-4a4d-9ad4-feb37ded6281" alt="Watching Movies" width="50" />
-
-
 <br/><br/><br/>
-
-
-<!--============================== DINO ==============================--> 
-<hr>
-
-![dino](https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/efb3168b-6da5-4ee0-a8af-de8106046d9d) 
-
-
-<hr>
-<br/>
-
-  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/ff8e31af-8501-4687-8580-17e8d4d7871f" width='950' height="350"/>
